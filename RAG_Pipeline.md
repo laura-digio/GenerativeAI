@@ -4,11 +4,15 @@
 
 ## 1. Scraping
 
-The first step is to gather raw data from various sources. This can include websites, documents, or other repositories of information.
+The first step is to gather raw data, or **corpus**, from various sources. This can include websites, documents, or other repositories of information.
 
 ## 2. Chunking
 
 Once the data is collected, it needs to be cleaned and split into manageable chunks. These chunks should be of appropriate size (e.g., 300–500 words or tokens) to ensure efficient processing.
+
+### [Model Context Protocol (MCP)](MCP.md)
+
+Using **MCP** principles, the **chunking** process can be enhanced by structuring the data to ensure relevance and alignment with the task objectives. This helps create more effective and concise chunks for downstream processing.
 
 ## 3. Embeddings
 
