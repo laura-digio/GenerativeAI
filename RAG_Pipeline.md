@@ -33,3 +33,7 @@ A user query is converted into an embedding, and the most relevant chunks are re
 ### LangChain
 
 [LangChain](https://langchain.com) simplifies the creation of RAG pipelines by providing tools for scraping, chunking, embedding generation, and integration with vector databases. It supports various data formats and allows for rapid development of applications like chat interfaces.
+
+### GenKit
+
+[GenKit](https://firebase.google.com/docs/genkit) is a versatile toolkit designed to streamline the development of Generative AI workflows. It can be used alongside LangChain to enhance processes like data preprocessing, embedding generation, and context optimization, making it easier to implement RAG Pipelines and MCP principles efficiently.

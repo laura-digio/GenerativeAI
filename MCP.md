@@ -31,3 +31,7 @@ MCP includes a feedback mechanism to refine the context based on the model's out
 ### LangChain
 
 [LangChain](https://langchain.com) can be used to implement MCP by providing tools for context retrieval, structuring, and injection. It supports integration with various data sources and allows for the creation of dynamic prompts tailored to specific tasks.
+
+### GenKit
+
+[GenKit](https://firebase.google.com/docs/genkit) is a versatile toolkit that complements MCP by streamlining tasks such as data preprocessing, context structuring, and optimization. It can be used to enhance the quality of the context provided to the model, ensuring more accurate and relevant responses.
